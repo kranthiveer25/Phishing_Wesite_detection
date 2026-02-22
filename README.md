@@ -1,1 +1,1 @@
-# python_list
+Phishing website detection using machine learning involves training models (e.g., Random Forest, SVM, XGBoost) on labeled datasets of URL and website content features—such as HTTPS usage, URL length, and domain age—to classify websites as legitimate or phishing. This approach improves on blacklist methods by identifying new, unseen threats with high accuracy. 
